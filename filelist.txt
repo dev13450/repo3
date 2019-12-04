@@ -1,0 +1,8 @@
+badidea.txt   
+good-idea.txt
+out.txt
+styles.css
+filelist.txt
+goodidea2.txt
+READ_ME.txt
+test7
