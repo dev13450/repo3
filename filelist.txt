@@ -1,4 +1,4 @@
-badidea.txt   
+badidea.txt
 good-idea.txt
 out.txt
 styles.css
